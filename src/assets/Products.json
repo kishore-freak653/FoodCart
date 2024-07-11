@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Paper Roast Dosa",
+    "amt": "300",
+    "shop": "Gowri Shankar",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 2,
+    "name": "Paneer Tikka",
+    "amt": "250",
+    "shop": "Indian Kitchen",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/115.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Biryani",
+    "amt": "350",
+    "shop": "Biryani House",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/3.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "amt": "200",
+    "shop": "Pizza Hut",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 5,
+    "name": "French-Fries",
+    "amt": "400",
+    "shop": "Seven Grills",
+    "ftype": "Seafood",
+    "pic": "https://www.app.tutorjoes.in/img/food/33.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 6,
+    "name": "Ice-Cream",
+    "amt": "200",
+    "shop": "South Indian Diner",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/38.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 7,
+    "name": "Pasta Alfredo",
+    "amt": "280",
+    "shop": "Italian Delight",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/26.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 8,
+    "name": "Chicken 65",
+    "amt": "320",
+    "shop": "SS Hyderabad Biriyani",
+    "ftype": "Seafood",
+    "pic": "https://www.app.tutorjoes.in/img/food/9.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 9,
+    "name": "Chicken Lolipop",
+    "amt": "270",
+    "shop": "Thai Flavors",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/16.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 10,
+    "name": "Naan",
+    "amt": "220",
+    "shop": "Burger Joint",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/25.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 11,
+    "name": "Carrot Juice",
+    "amt": "290",
+    "shop": "Cool Drinks",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/27.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 12,
+    "name": "Tandoori Chicken",
+    "amt": "280",
+    "shop": "Indian Kitchen",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/129.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 13,
+    "name": "Ladoo",
+    "amt": "180",
+    "shop": "Healthy Bites",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/70.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 14,
+    "name": "Gulab Jamun",
+    "amt": "350",
+    "shop": "Healthy Bites",
+    "ftype": "Seafood",
+    "pic": "https://www.app.tutorjoes.in/img/food/77.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 15,
+    "name": "Curd Vadai",
+    "amt": "220",
+    "shop": "North Indian Delight",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/113.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 16,
+    "name": "Parotta",
+    "amt": "380",
+    "shop": "KK CORNER",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 17,
+    "name": "Cup Noodles",
+    "amt": "150",
+    "shop": "KK CORNER",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/135.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 18,
+    "name": "Brownie",
+    "amt": "320",
+    "shop": "food Haven",
+    "ftype": "Seafood",
+    "pic": "https://www.app.tutorjoes.in/img/food/65.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 19,
+    "name": "Malai Doda",
+    "amt": "240",
+    "shop": "Indian Kitchen",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/71.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 20,
+    "name": "Momo Mia Meal",
+    "amt": "280",
+    "shop": "Middle Eastern Flavors",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/82.jpg",
+    "latest": "Yes"
+  }
+]
